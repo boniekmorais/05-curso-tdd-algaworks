@@ -1,0 +1,30 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚·½‚ùÿÿÿÿ
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼ƒ¼‚
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ô•¢·ıÿÿÿÿ
+[	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(±é‹¦
+[	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(‹äÃŞ
+[	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(øı§
+`	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(ÿıØÓùÿÿÿÿ
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(ŞçÅ›üÿÿÿÿ
+`	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(ğœÛ÷øÿÿÿÿ
+d
+java:S1192:"NDefine a constant instead of duplicating this literal "Pendrive 32GB" 3 times.(é¼®
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚·½‚ùÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¼ƒ¼‚
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ô•¢·ıÿÿÿÿ
+‚
+java:S1130""lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(±é‹¦
+‚
+java:S1130)"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‹äÃŞ
+‚
+java:S1130/"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(øı§
+‡
+java:S11309"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÿıØÓùÿÿÿÿ
+‡
+java:S1130@"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ŞçÅ›üÿÿÿÿ
+‡
+java:S1130G"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ğœÛ÷øÿÿÿÿ

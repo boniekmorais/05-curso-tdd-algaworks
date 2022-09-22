@@ -1,0 +1,43 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ςƒ—ÿÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(κΝ†—ώÿÿÿÿ
+`	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(¨΄™ύÿÿÿÿ
+b	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(¶κ—²8•†ιµ0
+d
+java:S1192"IDefine a constant instead of duplicating this literal "John Doe" 4 times.(³·φύÿÿÿÿ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "SΓ£o Paulo" 4 times.(ΠΎÒ ψÿÿÿÿ
+j
+java:S1192"ODefine a constant instead of duplicating this literal "Rio de Janeiro" 4 times.(ΠΎÒ ψÿÿÿÿ
+^
+java:S1854"HRemove this useless assignment to local variable "precoPassagemService".(››υλ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ςƒ—ÿÿÿÿÿ
+^
+java:S1117"HRename "precoPassagemService" which hides the field declared at line 13.(››υλ
+O
+java:S1481"9Remove this unused "precoPassagemService" local variable.(››υλ
+^
+java:S1854"HRemove this useless assignment to local variable "precoPassagemService".(››υλ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(κΝ†—ώÿÿÿÿ
+^
+java:S1117"HRename "precoPassagemService" which hides the field declared at line 13.(››υλ
+O
+java:S1481"9Remove this unused "precoPassagemService" local variable.(››υλ
+^
+java:S1854&"HRemove this useless assignment to local variable "precoPassagemService".(››υλ
+‡
+java:S1130%"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¨΄™ύÿÿÿÿ
+^
+java:S1117&"HRename "precoPassagemService" which hides the field declared at line 13.(››υλ
+O
+java:S1481&"9Remove this unused "precoPassagemService" local variable.(››υλ
+e
+java:S1854."HRemove this useless assignment to local variable "precoPassagemService".(››υλ8ΤΨ…ιµ0
+‰
+java:S1130-"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¶κ—²8½†ιµ0
+e
+java:S1117."HRename "precoPassagemService" which hides the field declared at line 13.(››υλ8ΥΨ…ιµ0
+V
+java:S1481."9Remove this unused "precoPassagemService" local variable.(››υλ8Ύ†ιµ0

@@ -1,0 +1,19 @@
+
+P
+ src/com/algaworks/model/Voo.java,5/3/5393572abd13f7072397b0e8acfab9c4a7bb062f
+h
+8src/com/algaworks/exception/TipoPassageiroException.java,3/6/360ce48b6cbff3b72f8473efa88adda3175c3162
+[
++src/com/algaworks/model/TipoPassageiro.java,f/a/fa3950747c1b2a2ba9e70f658b022ed36ecf8edb
+b
+2src/com/algaworks/service/PrecoPassagemSilver.java,5/f/5f9228a1b6b92c095180c691ab60c128ab54de8e
+g
+7src/com/algaworks/service/CalculadoraPrecoPassagem.java,3/c/3cc7735dc387e37d55e7dd953ce496bab3b71f53
+`
+0src/com/algaworks/service/PrecoPassagemGold.java,2/a/2aec9155f3ac6e5c724497be48f458dabbd64b52
+c
+3src/com/algaworks/service/PrecoPassagemService.java,b/c/bcb7432b788d6dcb90cee5d8235613a3a282da1e
+W
+'src/com/algaworks/model/Passageiro.java,e/c/ec298205afe3704e4bd48f6d4b892ed2d4f0796c
+f
+6src/com/algaworks/test/PassagensAereasServiceTest.java,1/3/139ee18f733ad4555f6750b8e81eb8abdab28f97
